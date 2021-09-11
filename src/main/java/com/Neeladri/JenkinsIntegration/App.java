@@ -7,5 +7,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println(6+5);
         System.out.println(77*99);
+        System.out.println(10%2);
+        System.out.println("teaching Nitish");
     }
 }
